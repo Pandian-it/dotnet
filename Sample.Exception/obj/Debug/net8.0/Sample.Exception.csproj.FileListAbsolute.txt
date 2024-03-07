@@ -1,0 +1,11 @@
+C:\projects\SampleApi\Sample.Exception\bin\Debug\net8.0\Sample.Exception.deps.json
+C:\projects\SampleApi\Sample.Exception\bin\Debug\net8.0\Sample.Exception.dll
+C:\projects\SampleApi\Sample.Exception\bin\Debug\net8.0\Sample.Exception.pdb
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\Sample.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\Sample.Exception.AssemblyInfoInputs.cache
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\Sample.Exception.AssemblyInfo.cs
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\Sample.Exception.csproj.CoreCompileInputs.cache
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\Sample.Exception.dll
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\refint\Sample.Exception.dll
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\Sample.Exception.pdb
+C:\projects\SampleApi\Sample.Exception\obj\Debug\net8.0\ref\Sample.Exception.dll

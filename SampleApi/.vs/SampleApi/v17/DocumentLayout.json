@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\SampleApi\\SampleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6F65D8-B79E-4876-9CBB-FB365B3758FA}|SampleApi.csproj|c:\\projects\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6F65D8-B79E-4876-9CBB-FB365B3758FA}|SampleApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4C4AC6-D033-4436-880B-0A9B81D96C67}|..\\Sample.Exception\\Sample.Exception.csproj|c:\\projects\\sampleapi\\sample.exception\\notfoundexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4C4AC6-D033-4436-880B-0A9B81D96C67}|..\\Sample.Exception\\Sample.Exception.csproj|c:\\projects\\sampleapi\\sample.exception\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4C4AC6-D033-4436-880B-0A9B81D96C67}|..\\Sample.Exception\\Sample.Exception.csproj|c:\\projects\\sampleapi\\sample.exception\\badrequestexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4C4AC6-D033-4436-880B-0A9B81D96C67}|..\\Sample.Exception\\Sample.Exception.csproj|c:\\projects\\sampleapi\\sample.exception\\sample.exception.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4C4AC6-D033-4436-880B-0A9B81D96C67}|..\\Sample.Exception\\Sample.Exception.csproj|c:\\projects\\sampleapi\\sample.exception\\sampleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BadRequestExceptionHandler.cs",
+              "DocumentMoniker": "C:\\projects\\SampleApi\\Sample.Exception\\BadRequestExceptionHandler.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Exception\\BadRequestExceptionHandler.cs",
+              "ToolTip": "C:\\projects\\SampleApi\\Sample.Exception\\BadRequestExceptionHandler.cs",
+              "RelativeToolTip": "..\\Sample.Exception\\BadRequestExceptionHandler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:18:32.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotFoundExceptionHandler.cs",
+              "DocumentMoniker": "C:\\projects\\SampleApi\\Sample.Exception\\NotFoundExceptionHandler.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Exception\\NotFoundExceptionHandler.cs",
+              "ToolTip": "C:\\projects\\SampleApi\\Sample.Exception\\NotFoundExceptionHandler.cs",
+              "RelativeToolTip": "..\\Sample.Exception\\NotFoundExceptionHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:46:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\projects\\SampleApi\\Sample.Exception\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Exception\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\projects\\SampleApi\\Sample.Exception\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "..\\Sample.Exception\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:20:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\SampleApi\\SampleApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projects\\SampleApi\\SampleApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:18:49.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SampleExtensions.cs",
+              "DocumentMoniker": "C:\\projects\\SampleApi\\Sample.Exception\\SampleExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Exception\\SampleExtensions.cs",
+              "ToolTip": "C:\\projects\\SampleApi\\Sample.Exception\\SampleExtensions.cs",
+              "RelativeToolTip": "..\\Sample.Exception\\SampleExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:09:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sample.Exception",
+              "DocumentMoniker": "C:\\projects\\SampleApi\\Sample.Exception\\Sample.Exception.csproj",
+              "RelativeDocumentMoniker": "..\\Sample.Exception\\Sample.Exception.csproj",
+              "ToolTip": "C:\\projects\\SampleApi\\Sample.Exception\\Sample.Exception.csproj",
+              "RelativeToolTip": "..\\Sample.Exception\\Sample.Exception.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T07:21:03.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
